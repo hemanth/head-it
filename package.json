@@ -1,0 +1,37 @@
+{
+  "name": "head-it",
+  "version": "0.0.0",
+  "description": "Easy interface for head.",
+  "license": "MIT",
+  "repository": "hemanth/head-it",
+  "author": {
+    "name": "Hemanth.HM",
+    "email": "hemanth.hm@gmail.com",
+    "url": "h3manth.com"
+  },
+  "bin": "cli.js",
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "files": [
+    "index.js",
+    "cli.js",
+    "head.js"
+  ],
+  "keywords": [
+    "cli-app",
+    "cli",
+    "head",
+    "html"
+  ],
+  "dependencies": {
+    "meow": "^3.7.0"
+  },
+  "devDependencies": {
+    "ava": "^0.14.0",
+    "xo": "^0.14.0"
+  }
+}

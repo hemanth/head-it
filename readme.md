@@ -52,6 +52,10 @@ $ head-it --help
 P.S: `type` can be any of: 360, min, elm, meta, link, fav, fbog, fbia, twitter, g+, oembed, ios, safari, android, chrome, ie, uc, qq, applinks.
 
 
+## GIF FTW!
+
+![](./head-it.gif)
+
 ## License
 
 MIT © [Hemanth.HM](https://h3manth.com)

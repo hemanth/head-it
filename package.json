@@ -16,6 +16,7 @@
   "scripts": {
     "test": "xo && ava"
   },
+  "main": "index.js",
   "files": [
     "index.js",
     "cli.js",

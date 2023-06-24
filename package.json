@@ -29,7 +29,7 @@
     "html"
   ],
   "dependencies": {
-    "meow": "^3.7.0"
+    "meow": "^10.0.0"
   },
   "devDependencies": {
     "ava": "^0.14.0",
